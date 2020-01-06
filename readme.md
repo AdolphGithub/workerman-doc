@@ -8,4 +8,5 @@ workerman + gateway worker源码解读.
 1. 安装workerman.(熟手跳过)
 2. workerman初始化流程.
 3. workerman启动流程.
+4. workerman事件监听.
 ```
