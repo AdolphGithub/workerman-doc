@@ -9,4 +9,5 @@ workerman + gateway worker源码解读.
 2. workerman初始化流程.
 3. workerman启动流程.
 4. workerman事件监听.
+5. workerman监控子进程.
 ```
